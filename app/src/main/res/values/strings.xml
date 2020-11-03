@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BarVolume</string>
+    <string name="text_length">Panjang</string>
+    <string name="text_width">Lebar</string>
+    <string name="text_height">Tinggi</string>
+    <string name="text_calculate">Hitung</string>
+    <string name="text_result">Hasil</string>
+</resources>
